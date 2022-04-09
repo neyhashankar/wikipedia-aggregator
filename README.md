@@ -1,6 +1,7 @@
 # WikiAgg
 
-Neyha Shankar's Grow Therapy coding challenge, 04/09/2022
+Neyha Shankar's Grow Therapy coding challenge, 04/09/2022.
+
 This is a class that finds aggregate Wikipedia data on a week or month basis.
 
 ## Usage
